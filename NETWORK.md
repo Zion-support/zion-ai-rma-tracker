@@ -7,11 +7,11 @@ Zion AI RMA Tracker — end-to-end RMA lifecycle management with AI status predi
 
 ## Related apps in the network
 
-- [Zion AI Spare Parts Matcher](https://github.com/Zion-support/zion-ai-spare-parts-matcher) — AI-powered compatibility matching
 - [Zion AI Spare Parts Finder](https://github.com/Zion-support/zion-ai-spare-parts-finder) — cross-vendor part-number intelligence
+- [Zion AI Spare Parts Matcher](https://github.com/Zion-support/zion-ai-spare-parts-matcher) — compatibility matching for Dell, HPE, Oracle
 - [Zion AI IT Asset Manager](https://github.com/Zion-support/zion-ai-it-asset-manager) — hardware and SaaS lifecycle
 - [Zion AI Field Dispatch](https://github.com/Zion-support/zion-ai-field-dispatch) — field-engineer dispatch planning
-- [Zion AI Supply Chain](https://github.com/Zion-support/zion-ai-supply-chain) — IT supply chain optimizer
+- [Zion AI SLA Breach Sentinel](https://github.com/Zion-support/zion-ai-sla-breach-sentinel) — SLA breach early-warning
 
 ## Part of the Zion App Network
 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
