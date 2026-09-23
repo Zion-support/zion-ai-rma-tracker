@@ -21,4 +21,5 @@ Zion AI RMA Tracker — end-to-end RMA lifecycle management with AI status predi
 - [energy-sla-reporter](https://github.com/Zion-support/energy-sla-reporter) — https://ziontechgroup.com/energy-sla-reporter/
 
 ---
+🗂️ [Master directory — Zion App Network](https://github.com/Zion-support/zion-app-network) · Live hub: https://ziontechgroup.com/zion-app-network/ · Apps hub: https://ziontechgroup.com/zion-apps-hub/
 © 2026 Zion Tech Group · https://ziontechgroup.com/
